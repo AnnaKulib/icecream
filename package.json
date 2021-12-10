@@ -1,12 +1,12 @@
 {
-  "name": "icecreamtest",
+  "name": "icecream",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Iniya19.github.io/icecreamtest",
+  "homepage": "https://AnnaKulib.github.io/icecream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /icecreamtest/"
+    "build": "parcel build src/*.html --public-url /icecream/"
   },
   "repository": {
     "type": "git",
